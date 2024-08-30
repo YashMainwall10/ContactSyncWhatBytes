@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859316927208",
+    "project_id": "contactsyncapplication",
+    "storage_bucket": "contactsyncapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859316927208:android:95b91fca3c779f0581675d",
+        "android_client_info": {
+          "package_name": "com.example.contactsyncapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnWVXoK73YZ0_nhluX8HxkNEUA9SPB3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
